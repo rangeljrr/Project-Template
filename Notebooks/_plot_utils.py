@@ -2,7 +2,7 @@ import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 
 def plot_config(title, axis, y_title, x_title):
-     """This function is used to configure a plot
+    """This function is used to configure a plot
     
        Arguments:
             title (str): The main title of the plot
